@@ -6,6 +6,6 @@ using System.Runtime.InteropServices;
 <<<<<<< HEAD
 [assembly: AssemblyVersion("1.11.2")]
 =======
-[assembly: AssemblyVersion("1.10.0")]
->>>>>>> Deployment of version 1.10.0
+[assembly: AssemblyVersion("1.11.0")]
+>>>>>>> Deployment of version 1.11.0
 
